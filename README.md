@@ -7,7 +7,6 @@ This research explores:
 - Political and cultural background
 - Historical documentation and references
 
-Author: [Your Name]
+Author : Unknown 
 Year: 2026
 
-This work is part of a broader study on Tamilakam history and Sangam political period.
